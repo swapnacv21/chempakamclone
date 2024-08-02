@@ -1,0 +1,37 @@
+.img1{
+    height: 600px;
+    width: 100%;
+}
+.img2{
+    bottom: 530px;
+    position: absolute;
+    left: 33%;
+    height: 100px;
+}
+.head1{
+    position: relative;
+    bottom: 500px;
+    left: 660px;
+    color: white;
+    font-size: 50px;
+    
+}
+.head2{
+    position: relative;
+    bottom: 375px;
+    left: 660px;
+    color: white;
+    font-size: 50px;
+}
+#b1{
+    position: relative;
+    bottom: 350px;
+    left: 660px;
+    
+    
+}
+#b2{
+    position: relative;
+    bottom: 330px;
+    left: 660px;
+}
