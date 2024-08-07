@@ -3,37 +3,39 @@
     width: 100%;
 }
 .img2{
-    bottom: 530px;
+    width:20%;
     position: absolute;
-    left: 33%;
-    height: 100px;
+    top:31%;
+    left:33%
+}
+.main{
+    position: relative;
 }
 .head1{
-    position: relative;
-    bottom: 500px;
-    left: 660px;
-    color: white;
+    position: absolute;
+    top: 16%;
+    left: 33%;
     font-size: 50px;
-    
+    color: white;
 }
 .head2{
-    position: relative;
-    bottom: 375px;
-    left: 660px;
+    position: absolute;
+    top: 55%;
+    left: 33%;
     color: white;
     font-size: 50px;
 }
 #b1{
-    position: relative;
-    bottom: 350px;
-    left: 660px;
-    
-    
+    position: absolute;
+    top: 68%;
+    left: 33%;
+    border: solid whitesmoke;
 }
 #b2{
-    position: relative;
-    bottom: 330px;
-    left: 660px;
+    position: absolute;
+    top: 78%;
+    left: 33%;
+    border: solid whitesmoke;
 }
 .browse{
     text-decoration: none;
@@ -47,4 +49,13 @@
 }
 .browse:hover{
     background-color: lightgray;
+}
+.new1{
+    text-decoration: none;
+    color: gray;
+   
+}
+.price{
+    color:black;
+   
 }
