@@ -59,3 +59,20 @@
     color:black;
    
 }
+#b3{
+    border-width: 1px;
+    position:relative;
+    
+}
+.browse1{
+    text-decoration: none;
+    background-color: whitesmoke;
+    border: solid;
+    border-color: gray;
+    color: gray;
+    border-width: 1px;
+    position:relative;
+    padding: 15px 37px ;
+    
+    /* top:105% */
+}
