@@ -76,3 +76,27 @@
     left:42%;
     
 }
+.part1{
+    background-color: aqua;
+    
+    grid-area: head1;
+}
+.part2{
+    background-color: bisque;
+}
+.part3{
+    background-color: blue;
+}
+.part4{
+    background-color: brown;
+}
+.main1{
+    display: grid;
+    grid-template-areas: 
+    'part1 part1 part1 part1 part1'
+    'part2 part2 part2 part2'
+    'part3 part3 part3 part3 part3'
+    'part4 part4 part4'
+    ;
+    grid-template-rows: 50px 80px 50px 50px;
+}
